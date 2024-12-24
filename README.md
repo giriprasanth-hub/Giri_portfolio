@@ -1,49 +1,4 @@
-# Maria Brió Pérez
 
-<p align="center">
-  <a href="https://mariabrio.vercel.app">
-    <img src="/assets/favicon/android-chrome-192x192.png" width="70" alt="Portfolio's favicon.">
-  </a>
-</p>
-<p align="center">
-  <span style="font-size: larger;">A professional, minimalist portfolio</span>
-</p>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" title="HTML" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript badge" title="JavaScript" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass badge" title="Sass" />
-</div>
-
-<p align="center">
-  <a href="https:/github.com/JuditKaramazov">🐱 /JuditKaramazov</a>
-</p>
-<p align="center">
-  <a href="https://karamazfolio.xyz/">📍 Portfolio</a>
-</p>
-<p align="center">
-  <a href="https://karamablog.xyz">☕ Blog</a>
-</p>
-
----
-
-Table of Contents
------------------
-
-* [🔧 Getting Started](#-getting-started)
-* [🚪 Introduction](#-introduction)
-* [💾 Content](#-content)
-* [🔮 Features](#-features)
-  * [🌒 Day'n'Nite](#-daynnite)
-  * [📬 EmailJS](#-emailjs)
-  * [📜 Single page](#-single-page)
-  * [🖼️ Swiper](#-swiper)
-* [💄 Style](#-style)
-* [🥳 Immense thanks to them awesome Sponsors](#-immense-thanks-to-them-awesome-sponsors)
-* [🏛 License & Copyright](#-license--copyright)
-
----
 
 # 🔧 Getting Started
 
